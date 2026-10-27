@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Networking <br>🌱 I’m currently learning about IP, Subnetting, ISP, Routing <br>💬 Ask me about <br> I am engineering graduate currently learning and exploring network spaces and their workings.<br>⚡ Fun fact<br>Still figuring out my own niche and expertise 
+🔭 I’m currently working on Computer Networking <br>🌱 I’m currently learning about IP, Subnetting, ISP, Routing <br>💬 Ask me about <br> I am engineering graduate currently learning and exploring network spaces and their workings.<br>⚡ Fun fact<br>Still figuring out my own niche and expertise 
 
 
 ## 🌐 Socials:
